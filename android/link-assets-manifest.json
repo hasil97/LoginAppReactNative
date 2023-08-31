@@ -1,0 +1,57 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/04B_20__.TTF",
+      "sha1": "5a38097764f9a652a221655acff2f6a71221b72c"
+    },
+    {
+      "path": "assets/fonts/ArianaVioleta-dz2K.ttf",
+      "sha1": "624ec214d545b06e8483a00be7eb62415037f0c9"
+    },
+    {
+      "path": "assets/fonts/Borel-Regular.ttf",
+      "sha1": "93af82eec3087358e36d188076acee45492dad6a"
+    },
+    {
+      "path": "assets/fonts/Inter-Bold.ttf",
+      "sha1": "47bb768bc0dce7072a0c11562c76aec42edd1b6a"
+    },
+    {
+      "path": "assets/fonts/Pixel.ttf",
+      "sha1": "e4e0c3feb6f8abbb46e42643946566a19522ab13"
+    },
+    {
+      "path": "assets/fonts/Pixel2.ttf",
+      "sha1": "41b7214a5a5423b307f4d540277efd253c0e3cd0"
+    },
+    {
+      "path": "assets/fonts/Roboto-Bold.ttf",
+      "sha1": "013f1bbcbbd80991a5f00fca52a90d0d7ab8b81f"
+    },
+    {
+      "path": "assets/fonts/Roboto-BoldItalic.ttf",
+      "sha1": "41985122ae0d78676ac1eb30edde89606bdbe531"
+    },
+    {
+      "path": "assets/fonts/Roboto-Italic.ttf",
+      "sha1": "20420db4e13d654cbe22b5fba6296c78a6360537"
+    },
+    {
+      "path": "assets/fonts/Roboto-Medium.ttf",
+      "sha1": "fddc8b1c688ef3baed0d5a46abf5f01f0edaf02b"
+    },
+    {
+      "path": "assets/fonts/Roboto-MediumItalic.ttf",
+      "sha1": "b13559734aa602f9a1bddb8b5be72d7036858716"
+    },
+    {
+      "path": "assets/fonts/Roboto-Regular.ttf",
+      "sha1": "84d102488738b0ebbc7a5087973effbd54c95bd5"
+    },
+    {
+      "path": "assets/fonts/RobotoMono-Regular.ttf",
+      "sha1": "10459dd11ec5adb59f3775b062dc06c4abe70a3a"
+    }
+  ]
+}
